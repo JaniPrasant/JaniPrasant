@@ -1,5 +1,3 @@
-## Hi there 👋, I’m Prashant Jani
-
 # 💫 About Me:
 🚀 Frontend Web Developer | React | WordPress | E-commerce Specialist<br>🌍 India | 💼 5+ Years Experience | 🎨 Pixel-Perfect UI Enthusiast<br><br>I’m a dedicated Frontend Web Developer with 5+ years of professional experience building responsive, scalable, and user-centric web applications.<br><br>I specialize in turning UI/UX designs into high-performance code, working extensively with React, JavaScript, HTML, CSS, and modern CMS platforms like WordPress, Magento 2, and PrestaShop.<br><br>I love clean code, smooth user experiences, and continuously improving my skills 🚀
 
